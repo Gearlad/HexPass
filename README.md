@@ -1,4 +1,7 @@
 # HexPass
+
+**Note: this project has not been implemented though may serve as a future area of research**
+
 此程式碼的範圍：利用網站用戶的個人資料來透過深度學習猜出帳號密碼
 
 ## 組員
@@ -18,14 +21,3 @@ There are many, many different types of passwords that require entirely differen
 
 ## Databases and Files Used
 This repository contains every English word in existence, with over 500000 words. https://github.com/dwyl/english-words
-I am still looking for good sources that match passwords to usernames and other relevant information.
-
-## 排程
-- 5/25 更新README.md
-- 5/27 尋找密碼資料庫
-- 5/28 開始嘗試訓練神經網路
-- 5/31 完成把可跑的程式原型implement出來
-- 6/1-6/7 最後的調整及優化
-
-## 目前進度: 20%
-我目前正在找尋適合用來順利案我的深度學習模型的一個資料庫或者csv file。
